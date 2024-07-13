@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - [Connect to an EKS Private Endpoint with AWS ClientVPN](https://medium.com/aws-tip/connect-to-an-eks-private-endpoint-with-aws-clientvpn-72b5000f558a)
 - [How to deploy an AWS EC2 instance using Terraform](https://medium.com/aws-tip/how-to-deploy-an-aws-ec2-instance-using-terraform-be164e6ac757)
 
+##🎤 Podcast
+
+[Taking on Kubernetes as a New Engineer](https://packetpushers.net/podcasts/kubernetes-unpacked/ku016-taking-on-kubernetes-as-a-new-engineer/)
+
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge)
