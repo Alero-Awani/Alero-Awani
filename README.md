@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🎤 Podcast
 
-[Taking on Kubernetes as a New Engineer](https://packetpushers.net/podcasts/kubernetes-unpacked/ku016-taking-on-kubernetes-as-a-new-engineer/)
+[Taking on Kubernetes as a New Engineer - Kubernetes Unpacked](https://packetpushers.net/podcasts/kubernetes-unpacked/ku016-taking-on-kubernetes-as-a-new-engineer/)
 
 
 ## 🔧Technologies and Tools
