@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 - [Connect to an EKS Private Endpoint with AWS ClientVPN](https://medium.com/aws-tip/connect-to-an-eks-private-endpoint-with-aws-clientvpn-72b5000f558a)
 - [How to deploy an AWS EC2 instance using Terraform](https://medium.com/aws-tip/how-to-deploy-an-aws-ec2-instance-using-terraform-be164e6ac757)
+- [Deploying EKS Self-Managed Node Groups with Terraform: A Complete Guide](https://medium.com/@Aleroawani/deploying-eks-self-managed-node-groups-with-terraform-a-complete-guide-05ec5b09ac18)
+- [Bridging Functions and Interfaces: http.HandlerFunc Explained](https://medium.com/@Aleroawani/bridging-functions-and-interfaces-how-http-handlerfunc-23433314f120)
+
+
 
 ## 🎤 Podcast
 
